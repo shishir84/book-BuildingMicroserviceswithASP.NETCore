@@ -8005,11 +8005,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\xyz\\computer\\microsoft\\ASP.NET\\books\\Building Microservices with ASP.NET Core\\Solution1\\Sample01_HelloWorld\\Sample01_HelloWorld.csproj",
+      "projectUniqueName": "D:\\xyz\\computer\\develope\\automated_build_pipeline\\projects\\book-BuildingMicroserviceswithASP.NETCore\\src\\Sample01_HelloWorld\\Sample01_HelloWorld.csproj",
       "projectName": "Sample01_HelloWorld",
-      "projectPath": "D:\\xyz\\computer\\microsoft\\ASP.NET\\books\\Building Microservices with ASP.NET Core\\Solution1\\Sample01_HelloWorld\\Sample01_HelloWorld.csproj",
+      "projectPath": "D:\\xyz\\computer\\develope\\automated_build_pipeline\\projects\\book-BuildingMicroserviceswithASP.NETCore\\src\\Sample01_HelloWorld\\Sample01_HelloWorld.csproj",
       "packagesPath": "C:\\Users\\xingzhi\\.nuget\\packages\\",
-      "outputPath": "D:\\xyz\\computer\\microsoft\\ASP.NET\\books\\Building Microservices with ASP.NET Core\\Solution1\\Sample01_HelloWorld\\obj\\",
+      "outputPath": "D:\\xyz\\computer\\develope\\automated_build_pipeline\\projects\\book-BuildingMicroserviceswithASP.NETCore\\src\\Sample01_HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
