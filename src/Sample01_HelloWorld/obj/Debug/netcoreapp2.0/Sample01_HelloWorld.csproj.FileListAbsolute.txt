@@ -1,0 +1,21 @@
+D:\xyz\computer\microsoft\ASP.NET\books\Building Microservices with ASP.NET Core\Solution1\Sample01_HelloWorld\bin\Debug\netcoreapp2.0\Sample01_HelloWorld.deps.json
+D:\xyz\computer\microsoft\ASP.NET\books\Building Microservices with ASP.NET Core\Solution1\Sample01_HelloWorld\bin\Debug\netcoreapp2.0\Sample01_HelloWorld.runtimeconfig.json
+D:\xyz\computer\microsoft\ASP.NET\books\Building Microservices with ASP.NET Core\Solution1\Sample01_HelloWorld\bin\Debug\netcoreapp2.0\Sample01_HelloWorld.runtimeconfig.dev.json
+D:\xyz\computer\microsoft\ASP.NET\books\Building Microservices with ASP.NET Core\Solution1\Sample01_HelloWorld\bin\Debug\netcoreapp2.0\Sample01_HelloWorld.dll
+D:\xyz\computer\microsoft\ASP.NET\books\Building Microservices with ASP.NET Core\Solution1\Sample01_HelloWorld\bin\Debug\netcoreapp2.0\Sample01_HelloWorld.pdb
+D:\xyz\computer\microsoft\ASP.NET\books\Building Microservices with ASP.NET Core\Solution1\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.csproj.CoreCompileInputs.cache
+D:\xyz\computer\microsoft\ASP.NET\books\Building Microservices with ASP.NET Core\Solution1\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.AssemblyInfoInputs.cache
+D:\xyz\computer\microsoft\ASP.NET\books\Building Microservices with ASP.NET Core\Solution1\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.AssemblyInfo.cs
+D:\xyz\computer\microsoft\ASP.NET\books\Building Microservices with ASP.NET Core\Solution1\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.dll
+D:\xyz\computer\microsoft\ASP.NET\books\Building Microservices with ASP.NET Core\Solution1\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.pdb
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\bin\Debug\netcoreapp2.0\Sample01_HelloWorld.deps.json
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\bin\Debug\netcoreapp2.0\Sample01_HelloWorld.runtimeconfig.json
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\bin\Debug\netcoreapp2.0\Sample01_HelloWorld.runtimeconfig.dev.json
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\bin\Debug\netcoreapp2.0\Sample01_HelloWorld.dll
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\bin\Debug\netcoreapp2.0\Sample01_HelloWorld.pdb
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.csprojResolveAssemblyReference.cache
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.csproj.CoreCompileInputs.cache
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.AssemblyInfoInputs.cache
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.AssemblyInfo.cs
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.dll
+D:\xyz\computer\develope\automated_build_pipeline\projects\book-BuildingMicroserviceswithASP.NETCore\src\Sample01_HelloWorld\obj\Debug\netcoreapp2.0\Sample01_HelloWorld.pdb
