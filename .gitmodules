@@ -1,0 +1,3 @@
+[submodule "authoring-services"]
+	path = authoring-services
+	url = https://github.com/shishir84/authoring-services.git
